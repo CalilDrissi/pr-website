@@ -1,0 +1,13 @@
+[en]
+  title = "Calil's Corner On The Internet"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[fr]
+  title = "Le Coin De Calil Sur Internet"
+  languageName = "Français"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/fr"
